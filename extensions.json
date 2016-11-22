@@ -1,0 +1,15 @@
+{
+    "extensions": [
+        "Fushnisoft.Clarion",
+        "HookyQR.beautify",
+        "McCarter.start-git-bash",
+        "TsumiNa.Seti-theme",
+        "donjayamanne.githistory",
+        "golf1052.code-sync",
+        "ms-vscode.js-atom-grammar",
+        "qinjia.seti-icons",
+        "robinbentley.sass-indented",
+        "searKing.preview-vscode",
+        "spywhere.guides"
+    ]
+}
