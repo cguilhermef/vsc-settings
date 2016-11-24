@@ -1,0 +1,10 @@
+{
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": false,
+    "editor.tabCompletion": true,
+    "explorer.autoReveal": false,
+    "explorer.enableDragAndDrop": false,
+    "editor.rulers": [80, 120],
+    "editor.tabSize": 2,
+    "window.openFilesInNewWindow": false
+}
