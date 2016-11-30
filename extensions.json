@@ -2,8 +2,9 @@
     "extensions": [
         "Fushnisoft.Clarion",
         "HookyQR.beautify",
+        "McCarter.start-git-bash",
         "TsumiNa.Seti-theme",
-        "donjayamanne.githistory",
+        "aeschli.vscode-css-formatter",
         "golf1052.code-sync",
         "ms-vscode.js-atom-grammar",
         "qinjia.seti-icons",
