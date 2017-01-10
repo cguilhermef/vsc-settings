@@ -2,7 +2,6 @@
     "extensions": [
         "Fushnisoft.Clarion",
         "HookyQR.beautify",
-        "McCarter.start-git-bash",
         "TsumiNa.Seti-theme",
         "aeschli.vscode-css-formatter",
         "donjayamanne.githistory",
@@ -12,6 +11,7 @@
         "rid9.datetime",
         "robinbentley.sass-indented",
         "searKing.preview-vscode",
+        "sidthesloth.svg-snippets",
         "spywhere.guides"
     ]
 }
