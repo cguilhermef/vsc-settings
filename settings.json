@@ -8,5 +8,7 @@
     "editor.tabSize": 2,
     "window.openFilesInNewWindow": false,
     "dateTime.showDayOfMonth": true,
-    "dateTime.customFormat": "ddd, Do MMM, YYYY - HH:mm"
+    "dateTime.customFormat": "ddd, Do MMM, YYYY - HH:mm",
+    "window.showFullPath": true,
+    "files.trimTrailingWhitespace": true
 }
