@@ -1,11 +1,9 @@
 {
     "extensions": [
-        "Fushnisoft.Clarion",
         "HookyQR.beautify",
         "TsumiNa.Seti-theme",
         "aeschli.vscode-css-formatter",
         "donjayamanne.githistory",
-        "golf1052.code-sync",
         "ms-vscode.js-atom-grammar",
         "qinjia.seti-icons",
         "rid9.datetime",
